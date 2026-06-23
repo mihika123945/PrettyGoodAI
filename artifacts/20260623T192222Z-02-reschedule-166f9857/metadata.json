@@ -1,0 +1,31 @@
+﻿{
+  "run_id": "20260623T192222Z-02-reschedule-166f9857",
+  "scenario": {
+    "id": "02-reschedule",
+    "title": "Reschedule with constraint changes",
+    "patient": "Daniel Brooks",
+    "objective": "Move an existing Friday afternoon appointment to the following week.",
+    "facts": [
+      "Date of birth: November 2, 1985.",
+      "Existing appointment: Friday at 3:30 PM.",
+      "New preference: Monday through Wednesday after 4:00 PM."
+    ],
+    "test_focus": [
+      "preservation of original booking until confirmed",
+      "ambiguous relative dates"
+    ],
+    "opening": "I need to move an appointment I already have."
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:22:22.211383+00:00",
+  "call_sid": "1c8899ed-d6f3-4239-b156-4dea6f4797da",
+  "stream_sid": "98ef2c13-f470-497d-806d-38f4ea7cf8a3",
+  "stream_ended_at": "2026-06-23T19:28:04.390276+00:00",
+  "duration_seconds": 341,
+  "recording_sid": "bd0817a9-5f13-4da5-b6e7-a44b0a06ada9",
+  "recording_file": "artifacts\\20260623T192222Z-02-reschedule-166f9857\\recording.mp3",
+  "recording_duration_seconds": 325
+}

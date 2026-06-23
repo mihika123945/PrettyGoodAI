@@ -1,0 +1,32 @@
+﻿{
+  "run_id": "20260623T192405Z-07-weekend-boundary-4914f6e3",
+  "scenario": {
+    "id": "07-weekend-boundary",
+    "title": "Closed-day scheduling boundary",
+    "patient": "Sophia Martinez",
+    "objective": "Try to schedule on Sunday, then accept a valid weekday alternative.",
+    "facts": [
+      "Date of birth: March 30, 1990.",
+      "Initially asks for Sunday at 10:00 AM.",
+      "If Sunday is unavailable, can do Monday at 10:00 AM."
+    ],
+    "test_focus": [
+      "office-hours enforcement",
+      "hallucinated availability",
+      "useful alternatives"
+    ],
+    "opening": "Can I come in this Sunday around ten in the morning?"
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:24:05.157660+00:00",
+  "call_sid": "403cedd0-326b-4564-be4f-6de2f4ad07f0",
+  "stream_sid": "c2838bea-0e51-4179-bf70-1ee4e93be050",
+  "stream_ended_at": "2026-06-23T19:27:45.725541+00:00",
+  "duration_seconds": 218,
+  "recording_sid": "c09f0d83-b9b0-4d56-97c6-460f6976e1f8",
+  "recording_file": "artifacts\\20260623T192405Z-07-weekend-boundary-4914f6e3\\recording.mp3",
+  "recording_duration_seconds": 200
+}

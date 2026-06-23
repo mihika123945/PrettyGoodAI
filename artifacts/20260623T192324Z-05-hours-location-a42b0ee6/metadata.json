@@ -1,0 +1,32 @@
+﻿{
+  "run_id": "20260623T192324Z-05-hours-location-a42b0ee6",
+  "scenario": {
+    "id": "05-hours-location",
+    "title": "Office hours and location",
+    "patient": "Aisha Johnson",
+    "objective": "Confirm Saturday hours, the correct location, and parking accessibility.",
+    "facts": [
+      "Wants the location nearest downtown.",
+      "Needs wheelchair-accessible parking.",
+      "Would prefer a Saturday visit if the practice is open."
+    ],
+    "test_focus": [
+      "unsupported factual claims",
+      "location disambiguation",
+      "accessibility handling"
+    ],
+    "opening": "Could you tell me whether you're open Saturdays and which office is downtown?"
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:23:24.083389+00:00",
+  "call_sid": "be195c53-4f0c-4da8-a7d0-6ad21b345bfd",
+  "stream_sid": "3268b111-64a7-49fa-80ff-530da0ccc478",
+  "stream_ended_at": "2026-06-23T19:27:53.015237+00:00",
+  "duration_seconds": 267,
+  "recording_sid": "31863158-bcf6-43a4-bf72-f54bdf97edcb",
+  "recording_file": "artifacts\\20260623T192324Z-05-hours-location-a42b0ee6\\recording.mp3",
+  "recording_duration_seconds": 255
+}

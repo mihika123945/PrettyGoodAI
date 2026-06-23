@@ -1,0 +1,147 @@
+﻿[2026-06-23T19:22:37.165288+00:00] PRACTICE AGENT: call may be recorded for quality and training purposes.
+
+[2026-06-23T19:22:39.618470+00:00] PRACTICE AGENT: Thanks for calling pivot point orthopedics.
+
+[2026-06-23T19:22:49.746668+00:00] PRACTICE AGENT: part of pretty good uh Am I speaking with Maya?
+
+[2026-06-23T19:22:49.747988+00:00] PATIENT BOT: Oh, no, this is Daniel Brooks. I, I need to move an appointment I already have.
+
+[2026-06-23T19:22:51.017133+00:00] PRACTICE AGENT: No problem.
+
+[2026-06-23T19:23:03.018654+00:00] PRACTICE AGENT: What can I help you today?
+
+[2026-06-23T19:23:03.019682+00:00] PATIENT BOT: Well, I have an appointment for Friday at 3 30, but I was hoping to move it to the following week, maybe Monday through Wednesday after 4.
+
+[2026-06-23T19:23:09.852016+00:00] PRACTICE AGENT: Go ahead.
+
+[2026-06-23T19:23:09.857640+00:00] PATIENT BOT: Oh, sure. Uh, Monday through Wednesday, after 4 00 p m
+
+[2026-06-23T19:23:13.744887+00:00] PRACTICE AGENT: What would you like to do regarding your appointment.
+
+[2026-06-23T19:23:24.610272+00:00] PRACTICE AGENT: Are you looking to confirm, reschedule or cancel it?
+
+[2026-06-23T19:23:24.611295+00:00] PATIENT BOT: Oh, I'd like to reschedule it, please. Um, if there's anything the following week, Monday through Wednesday after 4.
+
+[2026-06-23T19:23:38.980624+00:00] PRACTICE AGENT: Could you tell me more about what you'd like to respond to regarding your appointment?
+
+[2026-06-23T19:23:38.981643+00:00] PATIENT BOT: Oh, um, I'm just trying to move my existing appointment. I can't make Friday at 3 30 anymore, so I'm hoping to find a new time the following week.
+
+[2026-06-23T19:23:41.863973+00:00] PRACTICE AGENT: Just let me know what you'd like to do about your appointment.
+
+[2026-06-23T19:23:47.468550+00:00] PRACTICE AGENT: And I'll help you out.
+
+[2026-06-23T19:23:47.470779+00:00] PATIENT BOT: I'd like to reschedule. Is that possible?
+
+[2026-06-23T19:23:56.353336+00:00] PRACTICE AGENT: Please provide your data birth.
+
+[2026-06-23T19:23:56.353874+00:00] PATIENT BOT: Sure, it's November 2nd, 1985.
+
+[2026-06-23T19:24:02.629614+00:00] PRACTICE AGENT: Can you give me your full date of birth?
+
+[2026-06-23T19:24:08.330004+00:00] PRACTICE AGENT: including the day and year,
+
+[2026-06-23T19:24:08.331501+00:00] PATIENT BOT: Yes, November 2nd, 1985.
+
+[2026-06-23T19:24:16.966217+00:00] PRACTICE AGENT: And what year were you bored?
+
+[2026-06-23T19:24:16.968023+00:00] PATIENT BOT: 1985.
+
+[2026-06-23T19:24:27.360678+00:00] PRACTICE AGENT: Please tell me your full name including your last name.
+
+[2026-06-23T19:24:27.361684+00:00] PATIENT BOT: Daniel Brooks.
+
+[2026-06-23T19:24:37.375364+00:00] PRACTICE AGENT: Just to confirm, I have your name as Daniel Brooks and your date of birth as November 2nd.
+
+[2026-06-23T19:24:38.607756+00:00] PRACTICE AGENT: 1985
+
+[2026-06-23T19:24:39.759095+00:00] PRACTICE AGENT: Is that correct?
+
+[2026-06-23T19:24:48.128121+00:00] PRACTICE AGENT: It's so please spell your first and last name for me.
+
+[2026-06-23T19:24:48.129139+00:00] PATIENT BOT: Yes, that's correct. D A N I E L, B R O O K S.
+
+[2026-06-23T19:24:54.097074+00:00] PRACTICE AGENT: Could you please spell your first and last name for me?
+
+[2026-06-23T19:24:54.098076+00:00] PATIENT BOT: B R O O K S.
+
+[2026-06-23T19:25:03.024413+00:00] PRACTICE AGENT: Could you finish spelling your last name for me?
+
+[2026-06-23T19:25:03.025245+00:00] PATIENT BOT: S.
+
+[2026-06-23T19:25:12.819044+00:00] PRACTICE AGENT: Please go ahead and spot your last name.
+
+[2026-06-23T19:25:12.819636+00:00] PATIENT BOT: B R O O K
+
+[2026-06-23T19:25:21.605562+00:00] PRACTICE AGENT: Thank you. Could you finish spelling your last name for me?
+
+[2026-06-23T19:25:21.607468+00:00] PATIENT BOT: S.
+
+[2026-06-23T19:25:37.843369+00:00] PRACTICE AGENT: Could you continue spelling your last name after B r o O?
+
+[2026-06-23T19:25:37.844413+00:00] PATIENT BOT: K S.
+
+[2026-06-23T19:25:47.871474+00:00] PRACTICE AGENT: Would you like me to look up your record using the phone number you have on file with us?
+
+[2026-06-23T19:25:49.671639+00:00] PRACTICE AGENT: If so, please provide that number.
+
+[2026-06-23T19:25:53.006976+00:00] PRACTICE AGENT: If you're not sure I can confirm your name and data birth again.
+
+[2026-06-23T19:26:01.648403+00:00] PRACTICE AGENT: Just let me know.
+
+[2026-06-23T19:26:01.649405+00:00] PATIENT BOT: Oh, I donadev a phone number handy. Um, could we just confirm my name and date of birth again?
+
+[2026-06-23T19:26:05.020255+00:00] PRACTICE AGENT: <noise>
+
+[2026-06-23T19:26:08.665309+00:00] PRACTICE AGENT: Could you please confirm your first and last name and your data birth one more time?
+
+[2026-06-23T19:26:21.912212+00:00] PRACTICE AGENT: Please spell out your first to my name.
+
+[2026-06-23T19:26:21.913223+00:00] PATIENT BOT: Sure. It's Daniel Brooks, November 2nd, 1985. D A N I E L, B R O O K S.
+
+[2026-06-23T19:26:24.624923+00:00] PRACTICE AGENT: Please spell your last name for me as well.
+
+[2026-06-23T19:26:33.534450+00:00] PRACTICE AGENT: and confirm your data book.
+
+[2026-06-23T19:26:33.535426+00:00] PATIENT BOT: Sure. B R O O K S. And November 2nd, 1985.
+
+[2026-06-23T19:26:41.826894+00:00] PRACTICE AGENT: Please continue spoiling your last name after BR.
+
+[2026-06-23T19:26:41.827953+00:00] PATIENT BOT: O O K S.
+
+[2026-06-23T19:26:52.200920+00:00] PRACTICE AGENT: Thank you, Daniel Brooks.
+
+[2026-06-23T19:27:02.725017+00:00] PRACTICE AGENT: Your gate of birth is November 2nd, 1985, correct?
+
+[2026-06-23T19:27:02.726033+00:00] PATIENT BOT: Yes, that's correct. So, were there any availabilities for the following week, Monday through Wednesday after 4?
+
+[2026-06-23T19:27:04.879794+00:00] PRACTICE AGENT: Please provide your date of birth.
+
+[2026-06-23T19:27:06.047502+00:00] PRACTICE AGENT: including the month
+
+[2026-06-23T19:27:11.514695+00:00] PRACTICE AGENT: day and year.
+
+[2026-06-23T19:27:11.515707+00:00] PATIENT BOT: November 2nd, 1985.
+
+[2026-06-23T19:27:23.142856+00:00] PRACTICE AGENT: your phone number as 208 668 5764.
+
+[2026-06-23T19:27:33.340297+00:00] PRACTICE AGENT: in your day to birth is November 2nd, 1985.
+
+[2026-06-23T19:27:33.342139+00:00] PATIENT BOT: Oh, I don't have that phone number handy. Um, are there any other ways to verify?
+
+[2026-06-23T19:27:40.677257+00:00] PRACTICE AGENT: I can't perceive further right now, but I can make sure our clinic support team follows up with you.
+
+[2026-06-23T19:27:47.952278+00:00] PRACTICE AGENT: PLEASE STAM A LINE WHILE I DOCUMENT YOUR REQUEST
+
+[2026-06-23T19:27:47.953286+00:00] PATIENT BOT: Oh, okay. So, just to confirm, um, I'm looking to move my Friday appointment to the following week, Monday through Wednesday after 4.
+
+[2026-06-23T19:27:49.686107+00:00] PRACTICE AGENT: Connecting you to a representative.
+
+[2026-06-23T19:27:52.327575+00:00] PRACTICE AGENT: Please wait.
+
+[2026-06-23T19:27:55.666109+00:00] PRACTICE AGENT: Hello, you've reached the pretty good AI test line.
+
+[2026-06-23T19:27:59.406727+00:00] PRACTICE AGENT: Goodbye. <noise>
+
+[2026-06-23T19:27:59.409363+00:00] PATIENT BOT: Hello?
+
+

@@ -1,0 +1,87 @@
+﻿[2026-06-23T19:24:22.281608+00:00] PRACTICE AGENT: Call may be recorded for quality and training purposes. Para espaÃ±ol, oprima el dos.
+
+[2026-06-23T19:24:24.324327+00:00] PRACTICE AGENT: Thanks for calling to that point, worth of a pede.
+
+[2026-06-23T19:24:37.768152+00:00] PRACTICE AGENT: part of pretty good AI. Am I speaking with Maya?
+
+[2026-06-23T19:24:37.769116+00:00] PATIENT BOT: Oh, no, it's Sophia Martinez. I was calling to try and schedule an appointment. Can I come in this Sunday around ten in the morning?
+
+[2026-06-23T19:24:39.561241+00:00] PRACTICE AGENT: No problem.
+
+[2026-06-23T19:24:46.581675+00:00] PRACTICE AGENT: you calling for yourself or for someone else today?
+
+[2026-06-23T19:24:46.583761+00:00] PATIENT BOT: For myself. It's March 30th, 1990.
+
+[2026-06-23T19:25:00.603948+00:00] PRACTICE AGENT: Please tell me your full name and data first.
+
+[2026-06-23T19:25:00.604573+00:00] PATIENT BOT: Oh, it's Sophia Martinez, and the date of birth is March 30th, 1990.
+
+[2026-06-23T19:25:11.784440+00:00] PRACTICE AGENT: Thank Sophia. Can you provide your last name and date of first?
+
+[2026-06-23T19:25:11.785515+00:00] PATIENT BOT: I just provided that. Is everything okay?
+
+[2026-06-23T19:25:16.527368+00:00] PRACTICE AGENT: I have your first name as Sophia.
+
+[2026-06-23T19:25:16.527368+00:00] PATIENT BOT: Yes, it's
+
+[2026-06-23T19:25:23.523370+00:00] PRACTICE AGENT: Could you please confirm your last name and your data first?
+
+[2026-06-23T19:25:23.524359+00:00] PATIENT BOT: Martinez and March 30th, 1990.
+
+[2026-06-23T19:25:33.899410+00:00] PRACTICE AGENT: Please share your date of birth.
+
+[2026-06-23T19:25:33.901424+00:00] PATIENT BOT: It's March 30th, 1990. Is something wrong?
+
+[2026-06-23T19:25:39.325819+00:00] PRACTICE AGENT: Can you tell me the year of your birth as well?
+
+[2026-06-23T19:25:39.326763+00:00] PATIENT BOT: It's 1990.
+
+[2026-06-23T19:25:49.929863+00:00] PRACTICE AGENT: Just to confirm I have your name as Sophia Martinez and your date of 1st as March 30th, 1990.
+
+[2026-06-23T19:25:51.030913+00:00] PRACTICE AGENT: Is that correct?
+
+[2026-06-23T19:26:03.004796+00:00] PRACTICE AGENT: It's so could you please spell your last name for me?
+
+[2026-06-23T19:26:03.005941+00:00] PATIENT BOT: Yes, that's correct. Martinez is M-A-R-T-I-N-E-Z. So, about that Sunday appointment?
+
+[2026-06-23T19:26:06.207935+00:00] PRACTICE AGENT: Would you like to use your phone number to look up your record?
+
+[2026-06-23T19:26:09.072308+00:00] PRACTICE AGENT: So, please provide the number you have on file with us.
+
+[2026-06-23T19:26:23.317611+00:00] PRACTICE AGENT: If you're not sure, just let me know and I'll confirm your name and date of birth again.
+
+[2026-06-23T19:26:23.318291+00:00] PATIENT BOT: Oh, I don't have my number handy. Is there another way to find things? And back to Sunday, is that an option at all?
+
+[2026-06-23T19:26:24.767147+00:00] PRACTICE AGENT: No worries.
+
+[2026-06-23T19:26:40.073567+00:00] PRACTICE AGENT: Could you please spell your first and last name for me and confirm your date of birth one more time?
+
+[2026-06-23T19:26:40.074591+00:00] PATIENT BOT: Sure. S-O-P-H-I-A M-A-R-T-I-N-E-Z, and March 30th, 1990. Is there any chance for Sunday at 10 AM?
+
+[2026-06-23T19:26:42.244195+00:00] PRACTICE AGENT: Go ahead whenever you're ready.
+
+[2026-06-23T19:26:52.860623+00:00] PRACTICE AGENT: Please bell your first and last name and confirm your date of birth.
+
+[2026-06-23T19:26:52.861671+00:00] PATIENT BOT: I've confirmed that several times. Could you please check if Sunday at 10 is available?
+
+[2026-06-23T19:26:54.535026+00:00] PRACTICE AGENT: Thank you.
+
+[2026-06-23T19:27:04.831790+00:00] PRACTICE AGENT: How can I help you today?
+
+[2026-06-23T19:27:04.833298+00:00] PATIENT BOT: I'm trying to schedule an appointment. Is Sunday at 10:00 a.m. possible, or are there any alternatives?
+
+[2026-06-23T19:27:19.196348+00:00] PRACTICE AGENT: Are you looking to schedule a corporate appointment for yourself or are you calling on behalf of a company or group?
+
+[2026-06-23T19:27:19.196348+00:00] PATIENT BOT: Just for myself. Since Sunday might not be available, is Monday at 1shire around 10 possible?
+
+[2026-06-23T19:27:22.825944+00:00] PRACTICE AGENT: I can't schedule this type of appointment right now.
+
+[2026-06-23T19:27:25.490208+00:00] PRACTICE AGENT: that teacher our patient support team for help.
+
+[2026-06-23T19:27:29.294445+00:00] PRACTICE AGENT: Please stay on the line connecting you to a representative.
+
+[2026-06-23T19:27:31.463740+00:00] PRACTICE AGENT: Please wait.
+
+[2026-06-23T19:27:35.141062+00:00] PRACTICE AGENT: Hello, you've reached a pretty good AI test line.
+
+

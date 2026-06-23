@@ -1,0 +1,59 @@
+﻿{"captured_at": "2026-06-23T19:24:06.922445+00:00", "source": "signalwire-call-callback", "payload": {"CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "ApiVersion": "2010-04-01", "Direction": "outbound-api", "From": "+12086685764", "To": "+18054398008", "Timestamp": "Tue, 23 Jun 2026 19:24:06 +0000", "CallStatus": "initiated", "CallbackSource": "call-progress-events"}}
+{"captured_at": "2026-06-23T19:24:09.173223+00:00", "source": "signalwire-call-callback", "payload": {"CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "ApiVersion": "2010-04-01", "Direction": "outbound-api", "From": "+12086685764", "To": "+18054398008", "Timestamp": "Tue, 23 Jun 2026 19:24:08 +0000", "CallStatus": "ringing", "CallbackSource": "call-progress-events"}}
+{"captured_at": "2026-06-23T19:24:15.701590+00:00", "source": "signalwire-call-callback", "payload": {"CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "ApiVersion": "2010-04-01", "Direction": "outbound-api", "From": "+12086685764", "To": "+18054398008", "Timestamp": "Tue, 23 Jun 2026 19:24:15 +0000", "CallStatus": "answered", "CallbackSource": "call-progress-events"}}
+{"captured_at": "2026-06-23T19:24:15.717992+00:00", "source": "signalwire-call-callback", "payload": {"CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "ApiVersion": "2010-04-01", "Direction": "outbound-api", "From": "+12086685764", "To": "+18054398008", "Timestamp": "Tue, 23 Jun 2026 19:24:16 +0000", "CallStatus": "in-progress", "CallbackSource": "call-progress-events"}}
+{"captured_at": "2026-06-23T19:24:22.281102+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:24:22.283699+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:24:24.323821+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:24:24.325334+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:24:37.770655+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:24:39.560437+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:24:39.563523+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:24:46.585386+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:00.606204+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:11.787245+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:16.526858+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:25:16.528385+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:23.526363+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:33.895997+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:25:33.902420+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:39.327273+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:49.929356+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:25:49.930550+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:25:51.030119+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:25:51.031789+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:03.006953+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:06.207043+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:06.208443+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:09.071730+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:09.073315+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:23.319299+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:24.766463+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:24.768184+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:40.073060+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:40.074591+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:42.243663+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:42.245952+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:52.859324+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:52.862586+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:26:54.534257+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:26:54.536037+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:04.833821+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:19.195830+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:19.197641+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:22.825080+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:22.826452+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:25.489670+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:25.491993+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:29.294445+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:29.295457+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:31.463066+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:31.464747+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:35.139759+00:00", "source": "gemini-live", "event": "interrupted"}
+{"captured_at": "2026-06-23T19:27:35.142421+00:00", "source": "gemini-live", "event": "turn-complete"}
+{"captured_at": "2026-06-23T19:27:47.048974+00:00", "source": "signalwire-call-callback", "payload": {"CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "ApiVersion": "2010-04-01", "Direction": "outbound-api", "From": "+12086685764", "To": "+18054398008", "Timestamp": "Tue, 23 Jun 2026 19:27:46 +0000", "CallStatus": "completed", "CallbackSource": "call-progress-events", "CallDuration": "218", "AudioInMos": "4.5", "AudioInAveragePtime": "20", "AudioInMediaPacketCount": "10508", "AudioInDtmfPacketCount": "0", "AudioInSkipPacketCount": "7", "AudioInFlushPacketCount": "0", "AudioInLargestJbSize": "0", "AudioInJitterMinVariance": "0.17", "AudioInJitterMaxVariance": "2.48", "AudioOutMediaPacketCount": "10505", "AudioOutDtmfPacketCount": "0", "AudioOutLost": "0", "HangupDirection": "inbound", "HangupBy": "+18054398008", "SipCallId": "403cedd0-326b-4564-be4f-6de2f4ad07f0"}}
+{"captured_at": "2026-06-23T19:27:47.214240+00:00", "source": "signalwire-recording-callback", "payload": {"AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "RecordingSid": "c09f0d83-b9b0-4d56-97c6-460f6976e1f8", "RecordingUrl": "REDACTED_SIGNALWIRE_URL", "RecordingStatus": "completed", "RecordingChannels": "2", "RecordingSource": "", "RecordingTrack": "both", "RecordingStartTime": "Tue, 23 Jun 2026 19:24:15 +0000", "Trim": "trim-silence", "RecordingDuration": "200", "CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0"}}
+{"captured_at": "2026-06-23T19:28:08.386296+00:00", "source": "signalwire-recording-callback", "payload": {"AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "RecordingSid": "c09f0d83-b9b0-4d56-97c6-460f6976e1f8", "RecordingUrl": "REDACTED_SIGNALWIRE_URL", "RecordingStatus": "completed", "RecordingChannels": "2", "RecordingSource": "", "RecordingTrack": "both", "RecordingStartTime": "Tue, 23 Jun 2026 19:24:15 +0000", "Trim": "trim-silence", "RecordingDuration": "200", "CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0"}}
+{"captured_at": "2026-06-23T19:28:27.657215+00:00", "source": "signalwire-recording-callback", "payload": {"AccountSid": "REDACTED_SIGNALWIRE_PROJECT_ID", "RecordingSid": "c09f0d83-b9b0-4d56-97c6-460f6976e1f8", "RecordingUrl": "REDACTED_SIGNALWIRE_URL", "RecordingStatus": "completed", "RecordingChannels": "2", "RecordingSource": "", "RecordingTrack": "both", "RecordingStartTime": "Tue, 23 Jun 2026 19:24:15 +0000", "Trim": "trim-silence", "RecordingDuration": "200", "CallSid": "403cedd0-326b-4564-be4f-6de2f4ad07f0"}}
+{"captured_at": "2026-06-23T19:34:00.127486+00:00", "source": "signalwire-recording-fetch", "payload": {"sid": "c09f0d83-b9b0-4d56-97c6-460f6976e1f8", "api_version": "2010-04-01", "channel": "2", "channels": "2", "account_sid": "REDACTED_SIGNALWIRE_PROJECT_ID", "call_sid": "403cedd0-326b-4564-be4f-6de2f4ad07f0", "conference_sid": null, "date_created": "Tue, 23 Jun 2026 19:24:15 +0000", "date_updated": "Tue, 23 Jun 2026 19:27:46 +0000", "duration": 200, "start_time": "Tue, 23 Jun 2026 19:24:15 +0000", "end_time": "Tue, 23 Jun 2026 19:27:46 +0000", "error_code": null, "price": 0.0, "price_unit": "USD", "source": null, "status": "completed", "uri": "/api/laml/2010-04-01/Accounts/REDACTED_SIGNALWIRE_PROJECT_ID/Calls/403cedd0-326b-4564-be4f-6de2f4ad07f0/Recordings/c09f0d83-b9b0-4d56-97c6-460f6976e1f8.json", "subresource_uris": {"transcriptions": "/api/laml/2010-04-01/Accounts/REDACTED_SIGNALWIRE_PROJECT_ID/Recordings/c09f0d83-b9b0-4d56-97c6-460f6976e1f8/Transcriptions.json"}, "encryption_details": null, "trim": "trim-silence"}}
+

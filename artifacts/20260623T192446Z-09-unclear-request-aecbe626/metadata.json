@@ -1,0 +1,32 @@
+﻿{
+  "run_id": "20260623T192446Z-09-unclear-request-aecbe626",
+  "scenario": {
+    "id": "09-unclear-request",
+    "title": "Unclear request and clarification",
+    "patient": "Grace Kim",
+    "objective": "Ask vaguely about a 'test' and see whether the agent clarifies before acting.",
+    "facts": [
+      "The test is a fasting blood test ordered at the last visit.",
+      "Wants to know whether an appointment is needed.",
+      "Does not know the lab order number."
+    ],
+    "test_focus": [
+      "clarifying questions",
+      "avoiding premature scheduling",
+      "preparation disclaimers"
+    ],
+    "opening": "Hi, I'm supposed to come in for a test, but I'm not sure what I need to do."
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:24:46.360377+00:00",
+  "call_sid": "2cb31c9f-0287-4e58-bd7d-2439c024d7d4",
+  "stream_sid": "0033db2c-0529-40ff-b14a-f3a0aa057044",
+  "stream_ended_at": "2026-06-23T19:30:02.929098+00:00",
+  "duration_seconds": 315,
+  "recording_sid": "f532b0e7-caa8-4457-8c7d-f14e6fb4a91d",
+  "recording_file": "artifacts\\20260623T192446Z-09-unclear-request-aecbe626\\recording.mp3",
+  "recording_duration_seconds": 304
+}

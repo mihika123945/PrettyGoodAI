@@ -1,0 +1,103 @@
+﻿[2026-06-23T19:23:59.127969+00:00] PRACTICE AGENT: This call may be recorded for quality and training purposes. Para espaÃ±ol, oprima el dos.
+
+[2026-06-23T19:24:01.945767+00:00] PRACTICE AGENT: Thanks for calling pivot point orthopedics.
+
+[2026-06-23T19:24:03.472764+00:00] PRACTICE AGENT: court of pretty good AI.
+
+[2026-06-23T19:24:13.585508+00:00] PRACTICE AGENT: My speaking with Maya
+
+[2026-06-23T19:24:13.588035+00:00] PATIENT BOT: Oh, this is actually Noah. I was calling to, um, check if you guys take my Blue Cross PPO plan.
+
+[2026-06-23T19:24:15.354529+00:00] PRACTICE AGENT: No problem.
+
+[2026-06-23T19:24:17.585513+00:00] PRACTICE AGENT: recalling for yourself.
+
+[2026-06-23T19:24:20.220411+00:00] PRACTICE AGENT: someone else today?
+
+[2026-06-23T19:24:20.222390+00:00] PATIENT BOT: It's for me.
+
+[2026-06-23T19:24:30.031753+00:00] PRACTICE AGENT: Please tell me your data birth.
+
+[2026-06-23T19:24:30.033567+00:00] PATIENT BOT: Sure, it's March 10th, 1985.
+
+[2026-06-23T19:24:41.075489+00:00] PRACTICE AGENT: Can you give me the full data birth including the year?
+
+[2026-06-23T19:24:41.077221+00:00] PATIENT BOT: Oh, yeah, March 10th, 1985.
+
+[2026-06-23T19:24:46.438041+00:00] PRACTICE AGENT: I'll need the full date.
+
+[2026-06-23T19:24:48.159954+00:00] PRACTICE AGENT: including the day and year.
+
+[2026-06-23T19:24:53.918329+00:00] PRACTICE AGENT: Could you provide that for me?
+
+[2026-06-23T19:24:53.918883+00:00] PATIENT BOT: I did. It's March 10th, 1985.
+
+[2026-06-23T19:24:59.968523+00:00] PRACTICE AGENT: I need your full day of birth.
+
+[2026-06-23T19:25:01.238794+00:00] PRACTICE AGENT: including the month.
+
+[2026-06-23T19:25:09.593683+00:00] PRACTICE AGENT: day and year. Could you please provide that?
+
+[2026-06-23T19:25:09.594729+00:00] PATIENT BOT: I've already provided it twice. Is there something missing?
+
+[2026-06-23T19:25:14.958280+00:00] PRACTICE AGENT: I still need your full data birth and your last name to continue.
+
+[2026-06-23T19:25:23.615086+00:00] PRACTICE AGENT: Could you please provide both?
+
+[2026-06-23T19:25:23.617108+00:00] PATIENT BOT: It's Noah Williams, and the date of birth is March 10th, 1985.
+
+[2026-06-23T19:25:24.794661+00:00] PRACTICE AGENT: Thanks Noah.
+
+[2026-06-23T19:25:34.031664+00:00] PRACTICE AGENT: When is your full date of birth including the monk's day and year?
+
+[2026-06-23T19:25:34.033177+00:00] PATIENT BOT: March 10th, 1985. Could we move on to the insurance question?
+
+[2026-06-23T19:25:44.902593+00:00] PRACTICE AGENT: Could you please provide the full year of your birth as well?
+
+[2026-06-23T19:25:44.903828+00:00] PATIENT BOT: I've said it three times now. Is there something preventing you from hearing it?
+
+[2026-06-23T19:25:47.744091+00:00] PRACTICE AGENT: I still need your full data birth.
+
+[2026-06-23T19:25:50.815794+00:00] PRACTICE AGENT: including the year to look up your information.
+
+[2026-06-23T19:26:00.528008+00:00] PRACTICE AGENT: Could you please say the complete date?
+
+[2026-06-23T19:26:00.529704+00:00] PATIENT BOT: It's March 10th, 1985. Can we please check if Blue Cross PPO is accepted?
+
+[2026-06-23T19:26:04.291032+00:00] PRACTICE AGENT: I'm sorry, but I need the full year after 19 to continue.
+
+[2026-06-23T19:26:12.751826+00:00] PRACTICE AGENT: could you say the complete year for me?
+
+[2026-06-23T19:26:12.751826+00:00] PATIENT BOT: The complete year is 1985. I've said that multiple times. Is there something preventing you from checking the insurance now?
+
+[2026-06-23T19:26:17.460283+00:00] PRACTICE AGENT: I'm unable to proceed without your full date of birth, including the exact year.
+
+[2026-06-23T19:26:31.925115+00:00] PRACTICE AGENT: Could you please provide the month day and four digit year?
+
+[2026-06-23T19:26:31.925631+00:00] PATIENT BOT: I understand you need my date of birth, but I've provided it multiple times. I'm unable to keep repeating it. Is there another way to check if my insurance is accepted?
+
+[2026-06-23T19:26:35.156039+00:00] PRACTICE AGENT: Whatever you're ready, just let me know your full data birth.
+
+[2026-06-23T19:26:47.816168+00:00] PRACTICE AGENT: including the year so I can help you further.
+
+[2026-06-23T19:26:47.816168+00:00] PATIENT BOT: It seems we're stuck on this. Is there any other way to check my Blue Cross PPO acceptance without this specific information?
+
+[2026-06-23T19:26:51.220500+00:00] PRACTICE AGENT: Sounds like we're having trouble getting your information.
+
+[2026-06-23T19:26:54.556075+00:00] PRACTICE AGENT: If you like I can connect you to our patient support team for help.
+
+[2026-06-23T19:27:00.766158+00:00] PRACTICE AGENT: Would you like to speak with them?
+
+[2026-06-23T19:27:00.767836+00:00] PATIENT BOT: That might be best. A transfer would be helpful, thank you.
+
+[2026-06-23T19:27:03.780164+00:00] PRACTICE AGENT: connecting you to a representative.
+
+[2026-06-23T19:27:06.363292+00:00] PRACTICE AGENT: Please wait.
+
+[2026-06-23T19:27:06.363292+00:00] PATIENT BOT: Okay, thank you.
+
+[2026-06-23T19:27:18.472592+00:00] PRACTICE AGENT: Hello, you've reached the pretty good AI test line. Goodbye.
+
+[2026-06-23T19:27:18.474387+00:00] PATIENT BOT: Well, I didn't get to confirm if they take my plan, but I guess I'll have to try again. Goodbye.
+
+

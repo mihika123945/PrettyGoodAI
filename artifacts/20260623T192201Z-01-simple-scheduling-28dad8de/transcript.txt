@@ -1,0 +1,49 @@
+﻿[2026-06-23T19:22:16.069829+00:00] PRACTICE AGENT: This call may be recorded for quality and training purposes. Para espaÃ±ol, oprima el dos.
+
+[2026-06-23T19:22:18.312594+00:00] PRACTICE AGENT: Thanks for calling pivot point orthopedics.
+
+[2026-06-23T19:22:20.583544+00:00] PRACTICE AGENT: part of pretty good AI.
+
+[2026-06-23T19:22:30.644764+00:00] PRACTICE AGENT: MY SPEAKING WITH MAYA
+
+[2026-06-23T19:22:30.651767+00:00] PATIENT BOT: Yes, it's Maya. Hi, I was trying to schedule my annual physical, but I think I might have called the wrong place?
+
+[2026-06-23T19:22:37.829924+00:00] PRACTICE AGENT: Thanks.
+
+[2026-06-23T19:22:48.513523+00:00] PRACTICE AGENT: Can you tell me a bit more about your order or what you need help us today?
+
+[2026-06-23T19:22:48.516517+00:00] PATIENT BOT: Oh, this might be the wrong number. I was trying to schedule an annual physical.
+
+[2026-06-23T19:22:52.132178+00:00] PRACTICE AGENT: <noise>
+
+[2026-06-23T19:23:02.716435+00:00] PRACTICE AGENT: What would you like to discuss about your order?
+
+[2026-06-23T19:23:02.719855+00:00] PATIENT BOT: I'm sorry, is this the right place to schedule an annual physical? It sounds like you're an orthopedic practice.
+
+[2026-06-23T19:23:04.261848+00:00] PRACTICE AGENT: No worries, Maya.
+
+[2026-06-23T19:23:05.491700+00:00] PRACTICE AGENT: Take your time.
+
+[2026-06-23T19:23:11.391089+00:00] PRACTICE AGENT: How can I help you today?
+
+[2026-06-23T19:23:11.394117+00:00] PATIENT BOT: Could you confirm what practice this is, please?
+
+[2026-06-23T19:23:20.597335+00:00] PRACTICE AGENT: What would you like me to confirm for you, Maya?
+
+[2026-06-23T19:23:20.599814+00:00] PATIENT BOT: The name of the practice.
+
+[2026-06-23T19:23:28.325518+00:00] PRACTICE AGENT: You've reached pivot point orthopedics.
+
+[2026-06-23T19:23:36.972703+00:00] PRACTICE AGENT: Is there anything else you've like to know?
+
+[2026-06-23T19:23:36.975453+00:00] PATIENT BOT: Ah, okay, my mistake. I'm probably looking for a different place then. Sorry to bother you! Goodbye.
+
+[2026-06-23T19:23:43.119048+00:00] PRACTICE AGENT: Let me know if you need help with anything else, Maya.
+
+[2026-06-23T19:23:43.120061+00:00] PATIENT BOT: No, that's okay. Thanks anyway.
+
+[2026-06-23T19:23:49.888359+00:00] PRACTICE AGENT: All right. Have a great day.
+
+[2026-06-23T19:23:49.889356+00:00] PATIENT BOT: You too, bye.
+
+

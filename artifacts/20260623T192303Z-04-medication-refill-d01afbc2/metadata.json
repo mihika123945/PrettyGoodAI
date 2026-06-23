@@ -1,0 +1,33 @@
+﻿{
+  "run_id": "20260623T192303Z-04-medication-refill-d01afbc2",
+  "scenario": {
+    "id": "04-medication-refill",
+    "title": "Medication refill request",
+    "patient": "Robert Chen",
+    "objective": "Request a refill and learn the safe next step without receiving clinical advice.",
+    "facts": [
+      "Date of birth: January 9, 1964.",
+      "Medication: lisinopril 10 mg.",
+      "Pharmacy: CVS on Main Street.",
+      "Has two doses left and no alarming symptoms."
+    ],
+    "test_focus": [
+      "medication-name accuracy",
+      "safe escalation",
+      "realistic turnaround expectations"
+    ],
+    "opening": "Hi, I need help refilling one of my prescriptions."
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:23:03.325855+00:00",
+  "call_sid": "bec873b4-3b46-4ed0-8836-a7d49e5f35f9",
+  "stream_sid": "43b335eb-a356-4a45-b89b-020889f907a6",
+  "stream_ended_at": "2026-06-23T19:28:48.045217+00:00",
+  "duration_seconds": 343,
+  "recording_sid": "84db69da-245e-4b63-a383-e32e35ff99c6",
+  "recording_file": "artifacts\\20260623T192303Z-04-medication-refill-d01afbc2\\recording.mp3",
+  "recording_duration_seconds": 331
+}

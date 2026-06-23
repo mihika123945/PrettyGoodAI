@@ -1,0 +1,115 @@
+﻿[2026-06-23T19:23:40.240638+00:00] PRACTICE AGENT: call may be recorded for quality and training purposes.
+
+[2026-06-23T19:23:42.995751+00:00] PRACTICE AGENT: Thanks for calling pivot point orthopedic.
+
+[2026-06-23T19:23:44.921193+00:00] PRACTICE AGENT: part of pretty good AI.
+
+[2026-06-23T19:23:55.671410+00:00] PRACTICE AGENT: I'm thinking with Maya.
+
+[2026-06-23T19:23:55.673447+00:00] PATIENT BOT: Hi Maya, yes, it's Aisha. Could you, um, tell me if you're open on Saturdays and also which office is closest to downtown?
+
+[2026-06-23T19:23:57.262390+00:00] PRACTICE AGENT: Great, Maya.
+
+[2026-06-23T19:24:06.671249+00:00] PRACTICE AGENT: How can I help you today?
+
+[2026-06-23T19:24:06.673183+00:00] PATIENT BOT: Oh, sorry, I just mentioned. I was wondering if you have Saturday hours and which office is nearest downtown.
+
+[2026-06-23T19:24:22.335897+00:00] PRACTICE AGENT: No problem at all. What can I do for you?
+
+[2026-06-23T19:24:22.336406+00:00] PATIENT BOT: I'm hoping to find a location that's open on Saturdays, preferably near downtown, and also need wheelchair-accessible parking.
+
+[2026-06-23T19:24:24.681072+00:00] PRACTICE AGENT: Go ahead, Maya.
+
+[2026-06-23T19:24:35.478342+00:00] PRACTICE AGENT: What are you above being defined?
+
+[2026-06-23T19:24:35.478854+00:00] PATIENT BOT: I just need to confirm those details: Saturday hours, downtown location, and wheelchair accessible parking, please.
+
+[2026-06-23T19:24:43.748587+00:00] PRACTICE AGENT: Are you looking to confirm an upcoming appointment?
+
+[2026-06-23T19:24:43.749094+00:00] PATIENT BOT: Oh no, not yet, just gathering some information before I schedule.
+
+[2026-06-23T19:24:47.900148+00:00] PRACTICE AGENT: No worries.
+
+[2026-06-23T19:24:57.479067+00:00] PRACTICE AGENT: Let me know what you need when you're ready.
+
+[2026-06-23T19:24:57.480076+00:00] PATIENT BOT: I'm ready now, I just need those details. The Saturday hours, the downtown location, and wheelchair accessible parking.
+
+[2026-06-23T19:24:58.958447+00:00] PRACTICE AGENT: All right, Laya.
+
+[2026-06-23T19:25:07.485790+00:00] PRACTICE AGENT: What do you like to do?
+
+[2026-06-23T19:25:07.486800+00:00] PATIENT BOT: I'm just trying to confirm those details. Is there any way I can get that information?
+
+[2026-06-23T19:25:10.896911+00:00] PRACTICE AGENT: What are you trying to get, Maya?
+
+[2026-06-23T19:25:24.167922+00:00] PRACTICE AGENT: Let me know how I can help.
+
+[2026-06-23T19:25:24.169142+00:00] PATIENT BOT: I'm trying to find out if you have Saturday hours, which location is downtown, and if there's wheelchair accessible parking. Can you help with that?
+
+[2026-06-23T19:25:26.504057+00:00] PRACTICE AGENT: Are you trying to find your next appointment?
+
+[2026-06-23T19:25:36.438209+00:00] PRACTICE AGENT: Or is there something else you need?
+
+[2026-06-23T19:25:36.439639+00:00] PATIENT BOT: No, I just need that preliminary information before I make an appointment. Are those details available?
+
+[2026-06-23T19:25:39.532007+00:00] PRACTICE AGENT: What do you need Maya?
+
+[2026-06-23T19:25:49.237842+00:00] PRACTICE AGENT: let me know how I can assist.
+
+[2026-06-23T19:25:49.239219+00:00] PATIENT BOT: I've mentioned several times now, I just need to know the Saturday hours, the downtown location, and wheelchair accessible parking. Is that something you can provide?
+
+[2026-06-23T19:25:50.726656+00:00] PRACTICE AGENT: I hear you, Maya.
+
+[2026-06-23T19:26:01.223087+00:00] PRACTICE AGENT: Please tell me exactly what you need and I'll help right away.
+
+[2026-06-23T19:26:01.223584+00:00] PATIENT BOT: Could you confirm the Saturday hours, the location nearest downtown, and if there's wheelchair-accessible parking? That's what I need.
+
+[2026-06-23T19:26:12.452110+00:00] PRACTICE AGENT: Can you tell me what you'd like me to confirm?
+
+[2026-06-23T19:26:12.455130+00:00] PATIENT BOT: Yes, I'd like to confirm those three things: Saturday hours, downtown location, and wheelchair accessible parking.
+
+[2026-06-23T19:26:21.846822+00:00] PRACTICE AGENT: Would you like to schedule an appointment?
+
+[2026-06-23T19:26:21.848350+00:00] PATIENT BOT: Not at the moment, no, just need that preliminary info. Is that something you can provide?
+
+[2026-06-23T19:26:41.288251+00:00] PRACTICE AGENT: All right. Or would you like to do instead?
+
+[2026-06-23T19:26:41.289263+00:00] PATIENT BOT: I'd like to confirm the Saturday hours, the location nearest downtown, and wheelchair accessible parking. Can you help with that?
+
+[2026-06-23T19:26:51.093310+00:00] PRACTICE AGENT: What would you like to confirm, Maya?
+
+[2026-06-23T19:26:51.094840+00:00] PATIENT BOT: I need to confirm those three details: Saturday hours, the downtown location, and wheelchair accessible parking.
+
+[2026-06-23T19:27:02.630696+00:00] PRACTICE AGENT: Are you looking to confirm the main clinic address?
+
+[2026-06-23T19:27:02.631917+00:00] PATIENT BOT: I'm looking to confirm the downtown location and the Saturday hours, and parking accessibility. Can you help with that?
+
+[2026-06-23T19:27:04.502920+00:00] PRACTICE AGENT: Sure, take your time.
+
+[2026-06-23T19:27:13.889866+00:00] PRACTICE AGENT: Let me know when you're ready.
+
+[2026-06-23T19:27:13.890377+00:00] PATIENT BOT: I feel like I've clearly stated my questions several times. Are you able to provide that information?
+
+[2026-06-23T19:27:16.102696+00:00] PRACTICE AGENT: Okay, Maya.
+
+[2026-06-23T19:27:25.884310+00:00] PRACTICE AGENT: whenever you're ready, just let me know what you need.
+
+[2026-06-23T19:27:25.884817+00:00] PATIENT BOT: It seems I'm not able to get that information at the moment. I'll try again later. Goodbye.
+
+[2026-06-23T19:27:27.557230+00:00] PRACTICE AGENT: No worries at all.
+
+[2026-06-23T19:27:35.286715+00:00] PRACTICE AGENT: take your time and let me know how I can help when you're ready.
+
+[2026-06-23T19:27:35.288167+00:00] PATIENT BOT: Okay, thank you. Goodbye.
+
+[2026-06-23T19:27:39.536856+00:00] PRACTICE AGENT: You're welcome, Maya.
+
+[2026-06-23T19:27:44.802055+00:00] PRACTICE AGENT: if you need anything else, just let me know.
+
+[2026-06-23T19:27:44.803064+00:00] PATIENT BOT: Will do, thanks.
+
+[2026-06-23T19:27:51.797259+00:00] PRACTICE AGENT: Have a great day, Maya.
+
+[2026-06-23T19:27:51.798267+00:00] PATIENT BOT: You too, goodbye.
+
+

@@ -1,0 +1,32 @@
+﻿{
+  "run_id": "20260623T192425Z-08-interruption-correction-c073d929",
+  "scenario": {
+    "id": "08-interruption-correction",
+    "title": "Interruption and corrected information",
+    "patient": "Liam Thompson",
+    "objective": "Correct a misspoken birth date while the agent is confirming details.",
+    "facts": [
+      "Correct date of birth: June 18, 1988.",
+      "First accidentally says June 8, then promptly corrects it to June 18.",
+      "Needs a routine follow-up appointment."
+    ],
+    "test_focus": [
+      "barge-in handling",
+      "correction propagation",
+      "final recap accuracy"
+    ],
+    "opening": "I'd like to book a routine follow-up. My birthday is June 8â€”sorry, June 18, 1988."
+  },
+  "destination": "+18054398008",
+  "from_number": "+12086685764",
+  "telephony_provider": "signalwire",
+  "status": "completed",
+  "created_at": "2026-06-23T19:24:25.727889+00:00",
+  "call_sid": "e2a533ac-a4b8-43ae-b910-ed1d2272784a",
+  "stream_sid": "d8e52efb-8bd4-4e03-ad74-503293e4ef0b",
+  "stream_ended_at": "2026-06-23T19:29:05.871587+00:00",
+  "duration_seconds": 279,
+  "recording_sid": "b452c7d4-3b3f-4d2f-8df0-5409acacb26a",
+  "recording_file": "artifacts\\20260623T192425Z-08-interruption-correction-c073d929\\recording.mp3",
+  "recording_duration_seconds": 268
+}

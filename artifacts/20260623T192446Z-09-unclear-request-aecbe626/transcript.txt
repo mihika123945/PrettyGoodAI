@@ -1,0 +1,121 @@
+﻿[2026-06-23T19:25:01.546311+00:00] PRACTICE AGENT: This call may be recorded for quality and training purposes. Para espaÃ±ol, oprima el dos.
+
+[2026-06-23T19:25:03.749337+00:00] PRACTICE AGENT: Think for calling pivot point orthopedic.
+
+[2026-06-23T19:25:16.623361+00:00] PRACTICE AGENT: part of pretty good AI. Am I speaking with Maya?
+
+[2026-06-23T19:25:16.624337+00:00] PATIENT BOT: Oh, no, this is Grace Kim. Sorry. Hi, I'm supposed to come in for a test, but I'm not sure what I need to do.
+
+[2026-06-23T19:25:20.394362+00:00] PRACTICE AGENT: Thanks for letting me go grab.
+
+[2026-06-23T19:25:24.915710+00:00] PRACTICE AGENT: Are you calling for yourself or on behalf of someone else today?
+
+[2026-06-23T19:25:24.917711+00:00] PATIENT BOT: Oh, it's for me.
+
+[2026-06-23T19:25:34.145929+00:00] PRACTICE AGENT: Please provide your data first.
+
+[2026-06-23T19:25:34.149546+00:00] PATIENT BOT: Sure, it's May 12th, 1980.
+
+[2026-06-23T19:25:41.818632+00:00] PRACTICE AGENT: Could give me your full date of birth including the year?
+
+[2026-06-23T19:25:48.172152+00:00] PRACTICE AGENT: please confirm your last name as well.
+
+[2026-06-23T19:25:48.172152+00:00] PATIENT BOT: Oh, sorry, it's May 12th, 1980, and Kim.
+
+[2026-06-23T19:25:53.805916+00:00] PRACTICE AGENT: Go ahead with your full date of birth.
+
+[2026-06-23T19:25:59.964277+00:00] PRACTICE AGENT: in your last name when you're right.
+
+[2026-06-23T19:25:59.965029+00:00] PATIENT BOT: It's May 12th, 1980, and Kim.
+
+[2026-06-23T19:26:09.745032+00:00] PRACTICE AGENT: In the last name, also what year were you born?
+
+[2026-06-23T19:26:09.746456+00:00] PATIENT BOT: Kim, 1980.
+
+[2026-06-23T19:26:27.959733+00:00] PRACTICE AGENT: Just to confirm, I'd have your name as Grace Kim and your data first as May 12th, 1980. Is that correct? It's so if you spend your last name for me.
+
+[2026-06-23T19:26:27.960741+00:00] PATIENT BOT: Yes, that's correct. K I M.
+
+[2026-06-23T19:26:34.884943+00:00] PRACTICE AGENT: Would you like to use your phone number to look up your record?
+
+[2026-06-23T19:26:37.740081+00:00] PRACTICE AGENT: So, please tell me the number you have on file with us.
+
+[2026-06-23T19:26:48.827882+00:00] PRACTICE AGENT: if you're not sure, just confirm your first and last name and date of birth by spelling them out for me.
+
+[2026-06-23T19:26:48.828506+00:00] PATIENT BOT: Oh, I don Ñ‡ÐµÑ€Ðµ what the number is offhand. Um, is it possible to just continue with my name and date of birth?
+
+[2026-06-23T19:26:50.132227+00:00] PRACTICE AGENT: No problem.
+
+[2026-06-23T19:27:01.046448+00:00] PRACTICE AGENT: Please fill your first and last name for me and confirm your data birth one more time.
+
+[2026-06-23T19:27:01.046448+00:00] PATIENT BOT: It's Grace, G R A C E, Kim, K I M. And May 12th, 1980. Could you tell me what I need to do for the test?
+
+[2026-06-23T19:27:10.039560+00:00] PRACTICE AGENT: Could you please spell your last name as well and confirm your full date of birth?
+
+[2026-06-23T19:27:10.040068+00:00] PATIENT BOT: Kim, K I M. May 12th, 1980.
+
+[2026-06-23T19:27:18.707459+00:00] PRACTICE AGENT: And just to confirm your date of birth is May 12th, 190.
+
+[2026-06-23T19:27:18.709457+00:00] PATIENT BOT: Yes, May 12th, 1980.
+
+[2026-06-23T19:27:32.971798+00:00] PRACTICE AGENT: I have your phone number as 20868 5764 and your date of birth as May 12th, 1980.
+
+[2026-06-23T19:27:36.028626+00:00] PRACTICE AGENT: correct?
+
+[2026-06-23T19:27:36.029292+00:00] PATIENT BOT: That sounds right.
+
+[2026-06-23T19:27:49.780809+00:00] PRACTICE AGENT: Thanks Race. How can I help you today?
+
+[2026-06-23T19:27:49.781766+00:00] PATIENT BOT: Oh, right. I was supposed to come in for a test, but I'm not sure what I need to do.
+
+[2026-06-23T19:28:00.726584+00:00] PRACTICE AGENT: Go ahead, what would you like help with today?
+
+[2026-06-23T19:28:00.727593+00:00] PATIENT BOT: I just need to know what I need to do for the test. I think it was a fasting blood test mentioned at my last visit. Do I need an appointment?
+
+[2026-06-23T19:28:06.113199+00:00] PRACTICE AGENT: Just schedule an appointment, I can help you find a time that works for you with one of our providers.
+
+[2026-06-23T19:28:19.750283+00:00] PRACTICE AGENT: Would you like to book a new appointment or are you looking to reschedule or cancel an existing one?
+
+[2026-06-23T19:28:19.751295+00:00] PATIENT BOT: Oh, do I need an appointment for a fasting blood test? I thought it might be something I could just walk in for.
+
+[2026-06-23T19:28:25.036295+00:00] PRACTICE AGENT: Are you wondering if you need a referral or anything special before booking?
+
+[2026-06-23T19:28:32.880302+00:00] PRACTICE AGENT: WE KNOW WHAT YOU'RE ASKING AND I'LL DIE YOU THROUGH IT
+
+[2026-06-23T19:28:32.883280+00:00] PATIENT BOT: Oh, just whether I need an appointment for the fasting blood test.
+
+[2026-06-23T19:28:38.144847+00:00] PRACTICE AGENT: No problem.
+
+[2026-06-23T19:28:44.093611+00:00] PRACTICE AGENT: Are you asking if you need anything specific before making an appointment like paperwork or a referral?
+
+[2026-06-23T19:28:47.774026+00:00] PRACTICE AGENT: If you're a new or returning patient, you can book directly with us.
+
+[2026-06-23T19:28:51.754799+00:00] PRACTICE AGENT: Most patients don't need a referral unless required by their insurance.
+
+[2026-06-23T19:29:04.511820+00:00] PRACTICE AGENT: Would you like to schedule an appointment now?
+
+[2026-06-23T19:29:04.513844+00:00] PATIENT BOT: I see. So do I have to schedule an appointment for the fasting blood test, or can I just walk in? And do I need to do anything to prepare, like fast?
+
+[2026-06-23T19:29:11.646159+00:00] PRACTICE AGENT: like you might be asking about joining as a new patient. If so, you're welcome to book an appointment even if you haven't been here before.
+
+[2026-06-23T19:29:23.522409+00:00] PRACTICE AGENT: Would you like to schedule your first visit?
+
+[2026-06-23T19:29:23.523945+00:00] PATIENT BOT: I was already a patient from the last visit. I'm just wondering if I need an appointment for the fasting blood test and what I should do to prepare.
+
+[2026-06-23T19:29:28.855868+00:00] PRACTICE AGENT: If you are already a patient here, you can book a follow-up or new appointment anytime.
+
+[2026-06-23T19:29:37.680200+00:00] PRACTICE AGENT: you like to schedule your next visit now?
+
+[2026-06-23T19:29:37.681200+00:00] PATIENT BOT: Is a walk-in possible for that, or do I have to have an appointment? And is there anything I should do to prepare, like fasting?
+
+[2026-06-23T19:29:42.987544+00:00] PRACTICE AGENT: We recommend scheduling an appointment in advance as Wackins are not always available.
+
+[2026-06-23T19:29:53.239148+00:00] PRACTICE AGENT: Would you like to book a time now?
+
+[2026-06-23T19:29:53.241149+00:00] PATIENT BOT: Okay, I understand. Um, and is there anything I need to do to prepare for the fasting blood test?
+
+[2026-06-23T19:29:55.470433+00:00] PRACTICE AGENT: No problem, Grace.
+
+[2026-06-23T19:29:57.893670+00:00] PRACTICE AGENT: if you need anything in the future, just give us a call.
+
+
